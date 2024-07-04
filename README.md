@@ -57,3 +57,19 @@ Welcome to the **Day Weather Forecast App**! This project is a simple yet powerf
     - View the forecast and additional weather information.
       
       ![Forecast](https://github.com/Karthik-GigaByte/Image/blob/main/Weather%20info.png)
+
+#### Contributing
+
+Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+#### License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+#### Acknowledgements
+
+* **Streamlit (https://streamlit.io/)** - An awesome library for building web apps in Python.
+* **PyOWM (https://github.com/topics/pyowm)** - A Python wrapper for the OpenWeatherMap API.
+* **OpenWeatherMap (https://openweathermap.org/)** - A free weather API service.
+
+Enjoy using the Day Weather Forecast App! 🌤️
