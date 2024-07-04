@@ -34,7 +34,7 @@ Welcome to the **Day Weather Forecast App**! This project is a simple yet powerf
 
 2. **Interact with the app**:
     - Enter the name of the city.
-      [Interface](https://github.com/Karthik-GigaByte/Image/blob/main/Screenshot%202024-07-04%20180215.png)
+      ![Interface](https://github.com/Karthik-GigaByte/Image/blob/main/Screenshot%202024-07-04%20180215.png)
     - Select the temperature unit (Celsius or Fahrenheit).
     - Choose the type of graph (Line Graph or Bar Graph).
     - View the forecast and additional weather information.
