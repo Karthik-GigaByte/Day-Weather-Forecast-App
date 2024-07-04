@@ -2,15 +2,3 @@ streamlit==0.63.1
 matplotlib==3.2.2
 DateTime==4.3
 pyowm==3.0.0
-
--->Streamlit is an open-source Python library that makes it easy to create and share beautiful, 
-             custom web apps for machine learning and data science.
-
--->PyOWM is a  client Python wrapper library for OpenWeatherMap web APIs. It allows quick and easy 
-            consumption of OWM data from Python applications via a simple object model and in a human-friendly fashion.
-
--->Matplotlib is a plotting library for the Python programming language. 
-             It provides an object-oriented API for embedding plots into applications.
-
--->DateTime provides a DateTime data type . DateTime objects represent instants in time 
-        and provide interfaces for controlling its representation without affecting the absolute value of the object.
