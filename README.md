@@ -12,7 +12,7 @@ Welcome to the **Day Weather Forecast App**! This project is a simple yet powerf
 
 1. **Clone the repository**:
     ```bash
-    git clone git clone https://github.com/Karthik-GigaByte/Day-Weather-Forecast-App.git
+    git clone https://github.com/Karthik-GigaByte/Day-Weather-Forecast-App.git
     cd day-weather-forecast-app
     ```
 
@@ -34,15 +34,26 @@ Welcome to the **Day Weather Forecast App**! This project is a simple yet powerf
 
 2. **Interact with the app**:
     - Enter the name of the city.
+      
       ![Interface](https://github.com/Karthik-GigaByte/Image/blob/main/Screenshot%202024-07-04%20180215.png)
+      
     - Select the temperature unit (Celsius or Fahrenheit).
+      
       ![Temperature](https://github.com/Karthik-GigaByte/Image/blob/main/Temperature.png)
+      
     - Choose the type of graph (Line Graph or Bar Graph).
+      
       ![Graph](https://github.com/Karthik-GigaByte/Image/blob/main/Graph.png)
+      
     - View the Graphs.
       - Line Graph
+        
         ![Graph](https://github.com/Karthik-GigaByte/Image/blob/main/Line%20Graph.png)
+        
       - Bar Graph
+        
         ![Graph](https://github.com/Karthik-GigaByte/Image/blob/main/Bar%20Graph.png)
+        
     - View the forecast and additional weather information.
+      
       ![Forecast](https://github.com/Karthik-GigaByte/Image/blob/main/Weather%20info.png)
