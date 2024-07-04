@@ -7,7 +7,7 @@ from collections import defaultdict
 import numpy as np
 
 # Initialize OpenWeatherMap API with your API key
-owm = pyowm.OWM('Your_own_API')
+owm = pyowm.OWM('your_api_key_here')
 mgr = owm.weather_manager()
 
 # Streamlit frontend setup
