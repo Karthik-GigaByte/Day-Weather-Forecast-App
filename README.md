@@ -1,4 +1,4 @@
-### Day Weather Forecast App
+# Day Weather Forecast App
 
 Welcome to the **Day Weather Forecast App**! This project is a simple yet powerful weather forecasting tool built using Streamlit and PyOWM (Python wrapper for OpenWeatherMap API). It allows users to get a 5-day weather forecast for any city, with options to view the data in either Celsius or Fahrenheit and display it as a line or bar graph.
 
